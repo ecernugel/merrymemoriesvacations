@@ -4,7 +4,7 @@ body {
   font-size: 100%;
   line-height: 175%;
   margin: 0 15% 0;
-  background: #2E8B57 url(hollyberry.png) no-repeat center 100px fixed;
+  background: #FFFAFA url(hollyberry.png) no-repeat center 100px fixed;
 }
 header {
   margin-top: 0;
@@ -15,7 +15,7 @@ header {
     url(hollygroup.jpg) left top repeat-y,
     url(hollygroup.jpg) right top repeat-y,
     url(hollygroup.jpg) 90% bottom no-repeat;
-  background-color: rgba(225,0,0,.5);
+  background-color: rgba(139,0,0,.5);
 }
 
 a {
