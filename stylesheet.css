@@ -34,7 +34,11 @@ a:focus, a:hover {
 a:active {
   color: #f0f;
   background-color: #fff;
+  
+p b {
+    color: #8B0000;
 }
+
 
 h1 {
   font: bold 1.5em Ariel, serif;
