@@ -4,7 +4,7 @@ body {
   font-size: 100%;
   line-height: 175%;
   margin: 0 15% 0;
-  background: #e8c1be url(cupcake.png) no-repeat center 100px fixed;
+  background: #8B0000 url(hollyberry.png) no-repeat center 100px fixed;
 }
 header {
   margin-top: 0;
@@ -15,20 +15,20 @@ header {
     url(linecake.png) left top repeat-y,
     url(linecake.png) right top repeat-y,
     url(linecake.png) 90% bottom no-repeat;
-  background-color: rgba(255,255,255,.5);
+  background-color: rgba(225,0,0,.5);
 }
 
 a {
   text-decoration: none;
 }
 a:link {
-  color: #7a1537;
+  color: #FFFAFA;
 }
 a:visited {
-  color: #937393;
+  color: #2E8B57;
 }
 a:focus, a:hover {
-  color: #c700f2;
+  color: #3CB371;
   background-color: #fff;
 }
 a:active {
@@ -46,7 +46,7 @@ h2 {
   text-transform: uppercase;
   letter-spacing: .5em;
   text-align: center;
-  color: #7a1537;
+  color: #00000;
 }
 dt {
   font-weight: bold;
