@@ -34,16 +34,13 @@ a:focus, a:hover {
 a:active {
   color: #f0f;
   background-color: #fff;
-  
-p b {
-    color: #8B0000;
 }
 
 
 h1 {
   font: bold 1.5em Ariel, serif;
   text-shadow: .05em .05em .1em lightslategray;
-  color: #7a1537;
+  color: #8B0000;
 }
 h2 {
   font-size: 1em;
