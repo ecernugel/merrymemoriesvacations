@@ -40,14 +40,14 @@ a:active {
 h1 {
   font: bold 1.5em Ariel, serif;
   text-shadow: .05em .05em .1em lightslategray;
-  color: #00000;
+  color: #7a1537;
 }
 h2 {
   font-size: 1em;
   text-transform: uppercase;
   letter-spacing: .5em;
   text-align: center;
-  color: #00000;
+  color: #7a1537;
 }
 dt {
   font-weight: bold;
