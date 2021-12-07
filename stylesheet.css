@@ -4,7 +4,7 @@ body {
   font-size: 100%;
   line-height: 175%;
   margin: 0 15% 0;
-  background: #8B0000 url(hollyberry.png) no-repeat center 100px fixed;
+  background: #FFFAFA url(hollyberry.png) no-repeat center 100px fixed;
 }
 header {
   margin-top: 0;
@@ -22,7 +22,7 @@ a {
   text-decoration: none;
 }
 a:link {
-  color: #FFFAFA;
+  color: #8B0000;
 }
 a:visited {
   color: #2E8B57;
