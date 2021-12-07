@@ -10,11 +10,11 @@ header {
   margin-top: 0;
   padding: 3em 1em 2em 1em;
   text-align: center;
-  background: url(hollyberryframe.jpeg) center top repeat-x;
+  background: url(hollygroup.jpg) center top repeat-x;
   background: 
-    url(hollyberry.png) left top repeat-y,
-    url(hollyberry.png) right top repeat-y,
-    url(hollyberry.png) 90% bottom no-repeat;
+    url(hollygroup.jpg) left top repeat-y,
+    url(hollygroup.jpg) right top repeat-y,
+    url(hollygroup.jpg) 90% bottom no-repeat;
   background-color: rgba(225,0,0,.5);
 }
 
