@@ -4,13 +4,13 @@ body {
   font-size: 100%;
   line-height: 175%;
   margin: 0 15% 0;
-  background: #FFFAFA url(mmimages/hollyberry.png) no-repeat center 100px fixed;
+  background: #FFFAFA url(mmimages/hollygroup.jpg) no-repeat center 100px fixed;
 }
 header {
   margin-top: 0;
   padding: 3em 1em 2em 1em;
   text-align: center;
-  background: url(mmimages/hollygroup.jpg) center top repeat-x;
+  background: url(mmimages/hollyberryframe.jpeg) center top repeat-x;
   background: 
     url(mmimages/hollygroup.jpg) left top repeat-y,
     url(mmimages/hollygroup.jpg) right top repeat-y,
