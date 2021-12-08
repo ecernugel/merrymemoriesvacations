@@ -12,9 +12,9 @@ header {
   text-align: center;
   background: url(mmimages/hollyberryframe.jpeg) center top repeat-x;
   background: 
-    url(mmimages/hollygroup.jpg) left top repeat-y,
-    url(mmimages/hollygroup.jpg) right top repeat-y,
-    url(mmimages/hollygroup.jpg) 90% bottom no-repeat;
+    url(mmimages/hollyberryframe.jpeg) left top repeat-y,
+    url(mmimages/hollyberryframe.jpeg) right top repeat-y,
+    url(mmimages/hollyberryframe.jpeg) 90% bottom no-repeat;
   background-color: rgba(139,0,0,.5);
 }
 
