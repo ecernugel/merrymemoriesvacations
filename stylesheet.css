@@ -10,7 +10,7 @@ header {
   margin-top: 0;
   padding: 3em 1em 2em 1em;
   text-align: center;
-  background: url(mmimages/hollyberryframe.jpeg) center top repeat-x;
+  background: url(mmimages/hollyberryframe.jpeg) center top repeat-x 100px;
   background: 
     url(mmimages/hollyberryframe.jpeg) left top repeat-y,
     url(mmimages/hollyberryframe.jpeg) right top repeat-y,
